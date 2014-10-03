@@ -24,5 +24,8 @@
     "mocha": "^1.21.4",
     "directiv-test-helpers": "^0.1.0",
     "directiv-test-hyper-helpers": "^0.1.0"
+  },
+  "dependencies": {
+    "directiv-core-reduce": "^1.0.0"
   }
 }
